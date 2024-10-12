@@ -2,7 +2,7 @@ package com.example.taskmanager.service;
 
 import com.example.taskmanager.entities.NoteEntity;
 import com.example.taskmanager.entities.TaskEntity;
-import org.springframework.stereotype.Service;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
