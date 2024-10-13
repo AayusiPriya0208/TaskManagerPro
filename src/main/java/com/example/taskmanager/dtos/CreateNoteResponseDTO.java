@@ -15,4 +15,6 @@ public class CreateNoteResponseDTO {
 
     private Integer taskId;
     private NoteEntity note;
+
+    private String name;
 }
